@@ -14,3 +14,5 @@ display(){
     image(this.image,pos1,pos2,600,600);
 }
 }
+
+// for making the tree

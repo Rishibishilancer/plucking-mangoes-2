@@ -23,7 +23,7 @@ function setup() {
 	
 	boy = createSprite(200,550);
 	boy.addImage(boyImg);
-	boy.scale = 0.1;
+	boy.scale = 0.2;
 	tree = new Tree(900,350,30,300);
 	ground = new Ground(600,600,2000,20);
 	mango1 = new Mango(900,250,15);
